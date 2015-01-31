@@ -1,7 +1,7 @@
 sabre/skel
 ==========
 
-This repository functions as a 'skeleton' for new sabre packages, adn ensures
+This repository functions as a 'skeleton' for new sabre packages, and ensures
 that all the default stuff is in place.
 
 When you create a new package, make sure you copy the contents of this
