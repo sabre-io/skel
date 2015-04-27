@@ -28,7 +28,7 @@
         }
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "*",
+        "sabre/cs": "*",
         "phpunit/phpunit" : "*"
     },
     "config" : {
