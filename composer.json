@@ -28,7 +28,7 @@
         }
     },
     "require-dev": {
-        "sabre/cs": "*",
+        "sabre/cs": "dev-master",
         "phpunit/phpunit" : "*"
     },
     "config" : {
