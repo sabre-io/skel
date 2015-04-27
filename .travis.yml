@@ -16,4 +16,4 @@ script:
   - ./bin/phpunit --configuration tests/phpunit.xml.dist
   - ./bin/sabre-cs-fixer
 
-before_script: composer install --dev
+before_script: composer install
