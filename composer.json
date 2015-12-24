@@ -8,7 +8,7 @@
     "homepage": "http://sabre.io/dav/",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=5.4.7"
+        "php": ">=5.5"
     },
     "authors": [
         {
@@ -28,7 +28,7 @@
         }
     },
     "require-dev": {
-        "sabre/cs": "~0.0.2",
+        "sabre/cs": "~0.0.5",
         "phpunit/phpunit" : "*"
     },
     "config" : {
