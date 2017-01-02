@@ -8,13 +8,13 @@
     "homepage": "http://sabre.io/dav/",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=5.5"
+        "php": ">=7.0"
     },
     "authors": [
         {
             "name": "Evert Pot",
             "email": "me@evertpot.com",
-            "homepage": "http://evertpot.com/",
+            "homepage": "https://evertpot.com/",
             "role": "Developer"
         }
     ],
@@ -28,7 +28,7 @@
         }
     },
     "require-dev": {
-        "sabre/cs": "~0.0.5",
+        "sabre/cs": "~1.0.0",
         "phpunit/phpunit" : "*"
     },
     "config" : {
