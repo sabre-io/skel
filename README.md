@@ -22,7 +22,7 @@ Build status
 
 | branch | status |
 | ------ | ------ |
-| master | [![Build Status](https://travis-ci.org/fruux/sabre-skel.png?branch=master)](https://travis-ci.org/fruux/sabre-skel) |
+| master | [![Build Status](https://travis-ci.org/sabre-io/skel.png?branch=master)](https://travis-ci.org/sabre-io/skel) |
 
 
 Questions?
