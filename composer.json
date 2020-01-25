@@ -28,7 +28,7 @@
         }
     },
     "require-dev": {
-        "sabre/cs": "~1.0.0",
+        "friendsofphp/php-cs-fixer": "^2",
         "phpunit/phpunit" : "*"
     },
     "config" : {
