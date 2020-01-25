@@ -6,11 +6,13 @@
   convertWarningsToExceptions="true"
   beStrictAboutTestsThatDoNotTestAnything="true"
   beStrictAboutOutputDuringTests="true"
-  beStrictAboutTestSize="true"
+  enforceTimeLimit="true"
   >
-  <testsuite name="sabre-skel">
-    <directory>.</directory>
-  </testsuite>
+  <testsuites>
+    <testsuite name="sabre-skel">
+      <directory>.</directory>
+    </testsuite>
+  </testsuites>
 
   <filter>
     <whitelist addUncoveredFilesFromWhitelist="true">
