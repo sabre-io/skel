@@ -12,3 +12,6 @@ bin/sabre-cs-fixer
 
 # Vim
 .*.swp
+
+# IDEs
+/.idea
